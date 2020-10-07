@@ -1,0 +1,15 @@
+Day,Outlook,Temparature,Humidty,Wind,Play_Tennis
+Day1,Sunny,Hot,High,Weak,NO
+Day2,Sunny,Hot,High,Strong,NO
+Day3,Overcast,Hot,High,Weak,YES
+Day4,Rain,Mild,High,Weak,YES
+Day5,Rain,Cool,Normal,Weak,YES
+Day6,Rain,Cool,Normal,Strong,NO
+Day7,Overcast,Cool,Normal,Strong,YES
+Day8,Sunny,Mild,High,Weak,NO
+Day9,Sunny,Cool,Normal,Weak,YES
+Day10,Rain,Mild,Normal,Weak,YES
+Day11,Sunny,Mild,Normal,Strong,YES
+Day12,Overcast,Mild,High,Strong,YES
+Day13,Overcast,Hot,Normal,Weak,YES
+Day14,Rain,Mild,High,Strong,NO
